@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "Hybrid Engine Modeling"
-    url: /hybrid/
+    url: /hybrid
 
   - title: "AUV Main Enclosure"
-    url: /auv/    
+    url: /auv    
 
   - title: "Rocketry"
-    url: /rocketry/    
+    url: /rocketry  
         
   - title: "Resume"
-    url: /resume/
+    url: /resume
 
