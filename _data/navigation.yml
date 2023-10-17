@@ -4,11 +4,11 @@ main:
     url: /hybrid/
 
   - title: "AUV Main Enclosure"
-    url: /talks/    
+    url: /auv/    
 
   - title: "Rocketry"
     url: /rocketry/    
         
   - title: "Resume"
-    url: /year-archive/
+    url: /resume/
 
