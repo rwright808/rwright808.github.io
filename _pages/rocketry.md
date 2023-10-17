@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Rocketry"
-permalink: /rocketry/
+permalink: /rocketry
 author_profile: true
-redirect_from:
-  - /rocketry
 ---
 
 {% include base_path %}
