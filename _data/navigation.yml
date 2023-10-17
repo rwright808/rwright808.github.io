@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Hybrid Engine Modeling"
+    url: /hybrid/
 
-  - title: "Talks"
+  - title: "AUV Main Enclosure"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Rocketry"
+    url: /rocketry/    
         
-  - title: "Blog Posts"
+  - title: "Resume"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
