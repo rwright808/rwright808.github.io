@@ -4,7 +4,7 @@ title: "AUV Main Enclosure"
 permalink: /auv
 author_profile: true
 ---
-![(/images/Xenia-2)](/images/auv_w_houseplants.JPG)
+![(/images/auv_w_houseplants.JPG)]
 
 I am extremely proud of the mechanical design of the AUV main enclosure. I joined my school's AUV design team AUVic because of a few of my friends, and I was tasked with designing and manufacturing the main enclosure.
 
